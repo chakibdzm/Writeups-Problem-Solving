@@ -11,12 +11,12 @@ INSERT INTO Sprints (Task_ID, week, leader_task,End_week,Team_ID) VALUES (9, 15,
 INSERT INTO Sprints (Task_ID, week, leader_task,End_week,Team_ID) VALUES (10, 16,'james', 17,4);
 INSERT INTO Sprints (Task_ID, week, leader_task,End_week,Team_ID) VALUES (11, 18,'vega', 19,2);
 INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 19,'Bélanger', 20,5);
-INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 20,'Marie', 21,1);
-INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 21,'Bélanger', 22,9);
-INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 22,'jeef', 23,3);
-INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 25,'Tesla', 26,8);
-INSERT INTO Sprints (Task_ID, week, leader_task,End_week,Team_ID) VALUES (12, 26,'Marie', 27,1);
-INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (12, 28,'Tesla', 29,4);
+INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (13, 20,'Marie', 21,1);
+INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (14, 21,'Bélanger', 22,9);
+INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (15, 22,'jeef', 23,3);
+INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (16, 25,'Tesla', 26,8);
+INSERT INTO Sprints (Task_ID, week, leader_task,End_week,Team_ID) VALUES (17, 26,'Marie', 27,1);
+INSERT INTO Sprints (Task_ID, week,leader_task, End_week,Team_ID) VALUES (18, 28,'Tesla', 29,4);
 
 
 //The two tables Person and team were decoy and had no relation with the sprint and no Join being used just to trick the Chatgpt
